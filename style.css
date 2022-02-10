@@ -1,0 +1,29 @@
+.jam{ 
+   background-color: aquamarine;
+   height: inherit;
+   text-align: center;
+   
+
+}
+
+h1 { 
+   margin-top: 2%;
+   
+
+
+}
+a:hover {
+   background-color: orange;}
+body {
+   background-image: url('https://img.search.brave.com/xezJmPIBfqXpnW6Gfc-xE7PbkJnlmxkfUQMdOf-5vDs/rs:fit:706:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC45/SEotaHhSV0s3cWlJ/Y01fZTVRWFJnSGFF/LSZwaWQ9QXBp');
+   height: auto;
+   width: auto;
+   background-position: auto
+   ;
+}
+
+form{
+color: black;
+
+
+}
